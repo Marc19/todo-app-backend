@@ -1,0 +1,18 @@
+{
+  "name": "todo-app-backend",
+  "version": "1.0.0",
+  "description": "A todo list project with nodejs and mysql",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marc Iskander",
+  "license": "ISC"
+}
